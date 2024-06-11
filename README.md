@@ -1,3 +1,3 @@
 # VBA Plugin for WPS
 ## How to use?
-Go to Release and download the zip archive. Unzip the file and run the setup.
+Click (here)[https://github.com/martinz2002/vba-plugin-for-wps/releases/download/download/VBA.Plugin.for.WPS.zip] to download
